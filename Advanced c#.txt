@@ -1,0 +1,24 @@
+Currently I'm planning for below topics from given links.
+Please let me know if anything is missing or incorrect.
+
+Interfaces Y
+ Classes and Structs Y
+ Preprocessor Directives
+ XML Comments
+
+C# - Attributes
+C# - Reflection Y
+C# - Properties Y
+C# - Indexers Y
+C# - Delegates Y
+C# - Events Y
+C# - Collections Y
+C# - Generics Y
+C# - Anonymous Methods
+C# - Unsafe Codes
+C# - Multithreading
+
+https://cs.wmich.edu/~alfuqaha/summer13/cs5950/lectures/CSAdvanced-rev3.pdf
+https://www.tutorialspoint.com/csharp/index.htm
+
+
