@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Khyati Vyas\\CRUD_First\\CRUD_First\\CRUD_First.csproj": {}
+    "C:\\Users\\TGSUser98\\myproject\\CRUD_First\\CRUD_First\\CRUD_First.csproj": {}
   },
   "projects": {
-    "D:\\Khyati Vyas\\CRUD_First\\CRUD_First\\CRUD_First.csproj": {
+    "C:\\Users\\TGSUser98\\myproject\\CRUD_First\\CRUD_First\\CRUD_First.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Khyati Vyas\\CRUD_First\\CRUD_First\\CRUD_First.csproj",
+        "projectUniqueName": "C:\\Users\\TGSUser98\\myproject\\CRUD_First\\CRUD_First\\CRUD_First.csproj",
         "projectName": "CRUD_First",
-        "projectPath": "D:\\Khyati Vyas\\CRUD_First\\CRUD_First\\CRUD_First.csproj",
+        "projectPath": "C:\\Users\\TGSUser98\\myproject\\CRUD_First\\CRUD_First\\CRUD_First.csproj",
         "packagesPath": "C:\\Users\\TGSUser98\\.nuget\\packages\\",
-        "outputPath": "D:\\Khyati Vyas\\CRUD_First\\CRUD_First\\obj\\",
+        "outputPath": "C:\\Users\\TGSUser98\\myproject\\CRUD_First\\CRUD_First\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

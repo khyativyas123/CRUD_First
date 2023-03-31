@@ -21,6 +21,8 @@ namespace CRUD_First.Controllers
             new SelectListItem(){ Text="Singing", Value="1" },
             new SelectListItem(){ Text="Reading", Value="2" },
             new SelectListItem(){ Text="Surfing", Value="3" }
+
+
         };
         
 
